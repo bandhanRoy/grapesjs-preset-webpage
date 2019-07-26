@@ -68,7 +68,8 @@ export default grapesjs.plugins.add(
         "pills",
         "navbar",
         "pagination",
-        "pop-overs"
+        "pop-overs",
+        "login-form"
       ],
 
       // Modal import title
